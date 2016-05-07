@@ -1,0 +1,12 @@
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\TheHotel.Data.dll.config
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\TheHotel.Data.dll
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\TheHotel.Data.pdb
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\EntityFramework.dll
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\EntityFramework.xml
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\obj\Debug\TheHotel.Data.dll
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\obj\Debug\TheHotel.Data.pdb
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\obj\Debug\TheHotel.Data.Migrations.test.resources
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\obj\Debug\TheHotel.Data.csproj.GenerateResource.Cache
+C:\Drive D - Work\Interviews Projects\TheHotel\TheHotel\TheHotel.Data\obj\Debug\TheHotel.Data.csprojResolveAssemblyReference.cache

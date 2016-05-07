@@ -1,0 +1,17 @@
+﻿@model TheHotel.WebUI.Models.HotelModel
+<fieldset>
+    <legend class="text-info">General Details</legend>
+    <div class="row">
+        @Html.HiddenFor(model => model.Id)
+        @Html.ValidationSummary()
+        <div class="span3">
+            @Html.LabelFor(model => model.Name)
+            @Html.TextBoxFor(model => model.Name)            
+        </div>
+        <div class="span3">
+            @Html.LabelFor(model => model.Owner)
+            @Html.TextBoxFor(model => model.Owner)
+        </div>
+    </div>
+
+</fieldset>

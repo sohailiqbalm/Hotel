@@ -1,0 +1,10 @@
+﻿
+@using (Html.BeginForm())
+{
+    @Html.Partial("HotelDetails")
+
+    <div class="actions">
+        <button type="submit" class="btn btn-primary"><i class="icon-ok icon-white"></i>Update</button>
+        <a href="@Url.Action("index")" class="btn"><i class="icon-ban-circle icon-white"></i>Cancel</a>
+    </div>
+}

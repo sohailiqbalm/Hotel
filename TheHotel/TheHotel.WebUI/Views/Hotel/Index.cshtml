@@ -1,0 +1,22 @@
+﻿@model IList<TheHotel.WebUI.Models.HotelModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Html.ActionLink("Add New", "Add", "Hotel")
+@foreach(var item in @Model)
+{ 
+<div>
+    Id : @item.Id
+
+    Name : @item.Name
+
+    Owner : @item.Owner
+
+    @Html.ActionLink("Edit", "Edit", "Hotel", new { id = @item.Id}, null)
+</div>
+    
+}
+
